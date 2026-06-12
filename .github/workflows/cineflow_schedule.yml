@@ -5,7 +5,7 @@ on:
   schedule:
     # Chạy vào lúc 00:00 UTC (tức 7:00 sáng giờ Việt Nam) mỗi ngày
     - cron: '0 0 * * *'
-  # Cho phép bạn bấm nút "chạy bằng tay" trên giao diện GitHub bất cứ lúc nào để test
+  # Cho phép bạn bấm nút "chạy bằy tay" trên giao diện GitHub bất cứ lúc nào để test
   workflow_dispatch:
 
 jobs:
