@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw_tmdb
+    database: neondb
+    schema: raw_movies_data
+    tables:
+      - name: tmdb_discover_movies
+      - name: tmdb_discover_movies__genre_ids
