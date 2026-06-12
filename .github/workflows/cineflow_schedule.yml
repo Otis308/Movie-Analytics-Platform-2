@@ -29,18 +29,17 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests dlt[postgres] dbt-core dbt-postgres
 
-    # Bước 4: Chạy file Python để Cào dữ liệu (Extract & Load)
-    # GitHub sẽ lấy các biến mật khẩu từ kho Secret ở Bước 1 đổ vào đây
+    # Bước 4: Chạy file Python trực tiếp vì nó đang ở thư mục gốc
     - name: Run Extract & Load Pipeline
       env:
         TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         DATABASE_URL: ${{ secrets.DATABASE_URL }}
-      run: python movie-analytics-platform/main.py
+      run: python main.py
 
-    # Bước 5: Di chuyển vào thư mục dbt và chạy lệnh biến đổi dữ liệu (Transform)
+    # Bước 5: cd thẳng vào cineflow_dbt
     - name: Run dbt Transformation
       env:
         DATABASE_URL: ${{ secrets.DATABASE_URL }}
       run: |
-        cd movie-analytics-platform/cineflow_dbt
+        cd cineflow_dbt
         dbt run --profiles-dir .
