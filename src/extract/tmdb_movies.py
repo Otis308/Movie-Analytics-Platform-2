@@ -18,10 +18,14 @@ load_dotenv()
 
 API_KEY = os.getenv("TMDB_API_KEY")
 AUTH_KEY = os.getenv("TMDB_API_AUTH")
+DATABASE_URL = os.getenv("DATABASE_URL")
+
 if not API_KEY: 
     raise ValueError("TMDB_API_KEY is not find from .env")
 if not AUTH_KEY: 
     raise ValueError("TMDB_API_AUTH is not find from .env")
+if not DATABASE_URL:
+    raise ValueError("DATABASE_URL is not find from .env")
 
 #Hàm extract data từ TMDB lấy Discover/Movie
 @dlt.resource(name="tmdb_discover_movies", write_disposition="merge", primary_key="id")
@@ -78,6 +82,6 @@ def get_data_movies(start_page=1, end_page=5):
 # pipeline
 pipeline = dlt.pipeline(
     pipeline_name="tmdb_data",
-    destination="postgres", 
-    dataset_name="raw_movies_data"
+    dataset_name="raw_movies_data",
+    destination=dlt.destinations.postgres(credentials=DATABASE_URL), 
 )

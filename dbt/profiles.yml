@@ -1,0 +1,13 @@
+CineFlow:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: localhost          
+      user: postgres          
+      password: 1112223845     
+      port: 5432               
+      dbname: cineflow_db      
+      schema: dbt_dev          
+      threads: 4               
+      keepalives_idle: 0

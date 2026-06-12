@@ -5,8 +5,7 @@
             "adult": false,
             "backdrop_path": "/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
             "genre_ids": [
-                35,
-                27
+                35
             ],
             "id": 1273221,
             "title": "Scary Movie",
@@ -18,8 +17,8 @@
             "release_date": "2026-06-03",
             "softcore": false,
             "video": false,
-            "vote_average": 5.732,
-            "vote_count": 185
+            "vote_average": 5.7,
+            "vote_count": 186
         },
         {
             "adult": false,
@@ -37,8 +36,8 @@
             "release_date": "1978-01-10",
             "softcore": false,
             "video": false,
-            "vote_average": 5.6,
-            "vote_count": 24
+            "vote_average": 5.82,
+            "vote_count": 25
         },
         {
             "adult": false,
@@ -58,7 +57,7 @@
             "release_date": "2026-06-04",
             "softcore": false,
             "video": false,
-            "vote_average": 8.625,
+            "vote_average": 8.375,
             "vote_count": 4
         },
         {
@@ -98,8 +97,8 @@
             "release_date": "2026-05-14",
             "softcore": false,
             "video": false,
-            "vote_average": 7.6,
-            "vote_count": 4
+            "vote_average": 7.1,
+            "vote_count": 5
         },
         {
             "adult": false,
@@ -119,8 +118,8 @@
             "release_date": "2025-12-17",
             "softcore": false,
             "video": false,
-            "vote_average": 7.569,
-            "vote_count": 3379
+            "vote_average": 7.566,
+            "vote_count": 3381
         },
         {
             "adult": false,
@@ -162,8 +161,8 @@
             "release_date": "2026-03-04",
             "softcore": false,
             "video": false,
-            "vote_average": 8.2,
-            "vote_count": 1483
+            "vote_average": 8.186,
+            "vote_count": 1485
         },
         {
             "adult": false,
@@ -243,8 +242,8 @@
             "release_date": "2026-01-30",
             "softcore": false,
             "video": false,
-            "vote_average": 7.177,
-            "vote_count": 229
+            "vote_average": 7.159,
+            "vote_count": 230
         },
         {
             "adult": false,
@@ -264,8 +263,8 @@
             "release_date": "2025-07-18",
             "softcore": false,
             "video": false,
-            "vote_average": 7.737,
-            "vote_count": 853
+            "vote_average": 7.738,
+            "vote_count": 854
         },
         {
             "adult": false,
@@ -327,6 +326,26 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/g2aOpyCO1vEyUZURh3V5uaHu187.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 1288341,
+            "title": "Seven Snipers",
+            "original_language": "en",
+            "original_title": "Seven Snipers",
+            "overview": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.",
+            "popularity": 108.8394,
+            "poster_path": "/xIZ8huVdXCL7OMtsjd3XvmFP5sK.jpg",
+            "release_date": "2026-04-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.024,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
             "backdrop_path": "/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
             "genre_ids": [
                 18,
@@ -342,8 +361,8 @@
             "release_date": "2006-06-29",
             "softcore": false,
             "video": false,
-            "vote_average": 7.432,
-            "vote_count": 13682
+            "vote_average": 7.4,
+            "vote_count": 13685
         },
         {
             "adult": false,
@@ -384,29 +403,9 @@
             "softcore": false,
             "video": false,
             "vote_average": 7.041,
-            "vote_count": 6723
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/oTE4lNs4PSG5iIWjqaTdCIFJ4Bs.jpg",
-            "genre_ids": [
-                28,
-                53
-            ],
-            "id": 1318447,
-            "title": "Apex",
-            "original_language": "en",
-            "original_title": "Apex",
-            "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
-            "popularity": 95.6403,
-            "poster_path": "/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
-            "release_date": "2026-04-24",
-            "softcore": false,
-            "video": false,
-            "vote_average": 6.8,
-            "vote_count": 1410
+            "vote_count": 6724
         }
     ],
-    "total_pages": 57322,
-    "total_results": 1146435
+    "total_pages": 57324,
+    "total_results": 1146461
 }

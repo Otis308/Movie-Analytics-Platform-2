@@ -104,6 +104,25 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/xS8tsJ8IvNkzBMu3kq3gZFReh7j.jpg",
+            "genre_ids": [
+                53
+            ],
+            "id": 1293550,
+            "title": "Bandar",
+            "original_language": "hi",
+            "original_title": "बंदर",
+            "overview": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
+            "popularity": 96.6744,
+            "poster_path": "/3TrQUHmnEL2tOYf4KKkXb01BQt2.jpg",
+            "release_date": "2026-06-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
             "backdrop_path": "/lJJUpqjlZYKxIO1YdlmA15pa1Bf.jpg",
             "genre_ids": [
                 18,
@@ -125,29 +144,6 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
-            "genre_ids": [
-                12,
-                16,
-                35,
-                10751,
-                9648
-            ],
-            "id": 1084242,
-            "title": "Zootopia 2",
-            "original_language": "en",
-            "original_title": "Zootopia 2",
-            "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
-            "popularity": 88.7753,
-            "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-            "release_date": "2025-11-26",
-            "softcore": false,
-            "video": false,
-            "vote_average": 7.657,
-            "vote_count": 2906
-        },
-        {
-            "adult": false,
             "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
             "genre_ids": [
                 10402,
@@ -163,8 +159,8 @@
             "release_date": "2026-04-22",
             "softcore": false,
             "video": false,
-            "vote_average": 8.011,
-            "vote_count": 1165
+            "vote_average": 8.129,
+            "vote_count": 1274
         },
         {
             "adult": false,
@@ -180,12 +176,12 @@
             "original_title": "Mortal Kombat II",
             "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
             "popularity": 189.6381,
-            "poster_path": "/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+            "poster_path": "/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
             "release_date": "2026-05-06",
             "softcore": false,
             "video": false,
-            "vote_average": 7.451,
-            "vote_count": 574
+            "vote_average": 7.608,
+            "vote_count": 633
         },
         {
             "adult": false,
@@ -226,7 +222,7 @@
             "softcore": false,
             "video": false,
             "vote_average": 7.102,
-            "vote_count": 9195
+            "vote_count": 9196
         },
         {
             "adult": false,
@@ -250,6 +246,29 @@
         },
         {
             "adult": false,
+            "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+            "genre_ids": [
+                12,
+                16,
+                35,
+                10751,
+                9648
+            ],
+            "id": 1084242,
+            "title": "Zootopia 2",
+            "original_language": "en",
+            "original_title": "Zootopia 2",
+            "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+            "popularity": 88.7753,
+            "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+            "release_date": "2025-11-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.658,
+            "vote_count": 2907
+        },
+        {
+            "adult": false,
             "backdrop_path": "/6kheApG5qPsKbiKDxsGpOb6i6i6.jpg",
             "genre_ids": [
                 27,
@@ -265,8 +284,8 @@
             "release_date": "2026-05-27",
             "softcore": false,
             "video": false,
-            "vote_average": 3.6,
-            "vote_count": 5
+            "vote_average": 4.571,
+            "vote_count": 7
         },
         {
             "adult": false,
@@ -284,29 +303,8 @@
             "release_date": "2000-07-07",
             "softcore": false,
             "video": false,
-            "vote_average": 6.4,
-            "vote_count": 7812
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/4DfxcN4w0FuYZHQ3JAHzpHWia1U.jpg",
-            "genre_ids": [
-                28,
-                80,
-                53
-            ],
-            "id": 1291608,
-            "title": "Dhurandhar",
-            "original_language": "hi",
-            "original_title": "धुरंधर",
-            "overview": "A mysterious traveler slips into the heart of Karachi's underbelly and rises through its ranks with lethal precision, only to tear the notorious ISI-Underworld nexus apart from within.",
-            "popularity": 78.4532,
-            "poster_path": "/snBOuXDdhmTvlzMUvP9Em3Pp1u1.jpg",
-            "release_date": "2025-12-05",
-            "softcore": false,
-            "video": false,
-            "vote_average": 7.201,
-            "vote_count": 299
+            "vote_average": 6.406,
+            "vote_count": 7814
         },
         {
             "adult": false,
@@ -367,8 +365,29 @@
             "release_date": "1999-03-31",
             "softcore": false,
             "video": false,
-            "vote_average": 8.246,
-            "vote_count": 27976
+            "vote_average": 8.247,
+            "vote_count": 27978
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4DfxcN4w0FuYZHQ3JAHzpHWia1U.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 1291608,
+            "title": "Dhurandhar",
+            "original_language": "hi",
+            "original_title": "धुरंधर",
+            "overview": "A mysterious traveler slips into the heart of Karachi's underbelly and rises through its ranks with lethal precision, only to tear the notorious ISI-Underworld nexus apart from within.",
+            "popularity": 78.4532,
+            "poster_path": "/snBOuXDdhmTvlzMUvP9Em3Pp1u1.jpg",
+            "release_date": "2025-12-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 299
         },
         {
             "adult": false,
@@ -390,28 +409,8 @@
             "video": false,
             "vote_average": 7.629,
             "vote_count": 31
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/mxdiaM2tsx8M6W3zLgiPwAkhQfq.jpg",
-            "genre_ids": [
-                18,
-                10749
-            ],
-            "id": 744275,
-            "title": "After We Fell",
-            "original_language": "en",
-            "original_title": "After We Fell",
-            "overview": "Just as Tessa's life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she's been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.",
-            "popularity": 74.5721,
-            "poster_path": "/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg",
-            "release_date": "2021-09-01",
-            "softcore": false,
-            "video": false,
-            "vote_average": 7.004,
-            "vote_count": 2745
         }
     ],
-    "total_pages": 57320,
-    "total_results": 1146396
+    "total_pages": 57322,
+    "total_results": 1146435
 }

@@ -3,6 +3,26 @@
     "results": [
         {
             "adult": false,
+            "backdrop_path": "/9qYPmrdpGT58hd3wSam82pmPIoW.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1571594,
+            "title": "The Photographer",
+            "original_language": "es",
+            "original_title": "La fotógrafa",
+            "overview": "Inna, a young post-mortem photographer, arrives at a remote orphanage in northern Spain to capture the final image of Alejandra, a girl found dead under mysterious circumstances. But as her lens lingers on the tragedy, Inna begins to sense a dark presence within the orphanage's walls-an evil that refuses to remain hidden and threatens to make her its next subject.",
+            "popularity": 54.9616,
+            "poster_path": "/95pZ9yB5SABddzaINITvZd7SvER.jpg",
+            "release_date": "2025-10-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
             "backdrop_path": "/sUQQLJPQQSD2jEO2EgvchbQ0Yvy.jpg",
             "genre_ids": [
                 28,
@@ -21,6 +41,28 @@
             "video": false,
             "vote_average": 7.4,
             "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wENlYOyR10DZzkICmrGUQQX4Ih5.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                12
+            ],
+            "id": 1084244,
+            "title": "Toy Story 5",
+            "original_language": "en",
+            "original_title": "Toy Story 5",
+            "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+            "popularity": 60.9911,
+            "poster_path": "/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
+            "release_date": "2026-06-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0
         },
         {
             "adult": false,
@@ -59,8 +101,8 @@
             "release_date": "2026-02-06",
             "softcore": false,
             "video": false,
-            "vote_average": 6.314,
-            "vote_count": 113
+            "vote_average": 6.346,
+            "vote_count": 114
         },
         {
             "adult": false,
@@ -120,30 +162,8 @@
             "release_date": "2026-02-25",
             "softcore": false,
             "video": false,
-            "vote_average": 6.162,
-            "vote_count": 997
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/wENlYOyR10DZzkICmrGUQQX4Ih5.jpg",
-            "genre_ids": [
-                16,
-                10751,
-                35,
-                12
-            ],
-            "id": 1084244,
-            "title": "Toy Story 5",
-            "original_language": "en",
-            "original_title": "Toy Story 5",
-            "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-            "popularity": 60.9911,
-            "poster_path": "/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
-            "release_date": "2026-06-17",
-            "softcore": false,
-            "video": false,
-            "vote_average": 0.0,
-            "vote_count": 0
+            "vote_average": 6.17,
+            "vote_count": 999
         },
         {
             "adult": false,
@@ -368,7 +388,7 @@
             "softcore": false,
             "video": false,
             "vote_average": 8.237,
-            "vote_count": 32067
+            "vote_count": 32068
         },
         {
             "adult": false,
@@ -391,29 +411,8 @@
             "video": false,
             "vote_average": 6.458,
             "vote_count": 119
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/q8Qlpmp2my1IZV9EVebzvhhJPmy.jpg",
-            "genre_ids": [
-                28,
-                10749,
-                53
-            ],
-            "id": 1220522,
-            "title": "Dacoit",
-            "original_language": "te",
-            "original_title": "డెకాయిట్",
-            "overview": "Betrayed by his better half, a man is convicted for a crime he didn't commit. Once free, he hunts her down in pursuit of vengeance, as their stories intertwine with a series of robberies.",
-            "popularity": 51.8154,
-            "poster_path": "/530ELGtiZKTUpyxEvP2ufzz8bJB.jpg",
-            "release_date": "2026-04-10",
-            "softcore": false,
-            "video": false,
-            "vote_average": 6.2,
-            "vote_count": 4
         }
     ],
-    "total_pages": 57320,
-    "total_results": 1146396
+    "total_pages": 57323,
+    "total_results": 1146450
 }

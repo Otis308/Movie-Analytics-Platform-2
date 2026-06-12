@@ -1,0 +1,415 @@
+{
+    "page": 3,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/m5dA4JZsj78EBTa2D6imWOAebwB.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 4247,
+            "title": "Scary Movie",
+            "original_language": "en",
+            "original_title": "Scary Movie",
+            "overview": "A familiar-looking group of teenagers find themselves being stalked by a more-than-vaguely recognizable masked killer! As the victims begin to pile up and the laughs pile on, none of your favorite scary movies escape the razor-sharp satire of this outrageously funny parody!",
+            "popularity": 93.48,
+            "poster_path": "/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg",
+            "release_date": "2000-07-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.409,
+            "vote_count": 7829
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 278,
+            "title": "The Shawshank Redemption",
+            "original_language": "en",
+            "original_title": "The Shawshank Redemption",
+            "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+            "popularity": 90.5775,
+            "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+            "release_date": "1994-09-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.722,
+            "vote_count": 30532
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
+            "genre_ids": [
+                28,
+                80
+            ],
+            "id": 1280738,
+            "title": "The Furious",
+            "original_language": "en",
+            "original_title": "火遮眼",
+            "overview": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
+            "popularity": 91.0011,
+            "poster_path": "/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
+            "release_date": "2026-06-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.6,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
+            "genre_ids": [
+                28,
+                14,
+                12
+            ],
+            "id": 460465,
+            "title": "Mortal Kombat",
+            "original_language": "en",
+            "original_title": "Mortal Kombat",
+            "overview": "Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.",
+            "popularity": 85.2116,
+            "poster_path": "/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg",
+            "release_date": "2021-04-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.044,
+            "vote_count": 6751
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/48dwB4axAbZUOlIz5dCJ9Li1T7W.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 270473,
+            "title": "Love Sick",
+            "original_language": "th",
+            "original_title": "ฟัด จัง โตะ",
+            "overview": "Gob, a product designer who always manages to find something crap to present to his boss and really wants someone who can listen to his problems when he feels down. All he got, however, is Gab, a reckless dancer friend who only likes to talk about herself and order him to do this and that.",
+            "popularity": 110.2603,
+            "poster_path": "/qJGVLxMO11CmLLSxtEO055limUr.jpg",
+            "release_date": "2013-12-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2D3W3Jp0VYsLhXTEfnvhbMvQEzk.jpg",
+            "genre_ids": [
+                53,
+                9648,
+                80
+            ],
+            "id": 1560681,
+            "title": "Colors of Evil: Black",
+            "original_language": "pl",
+            "original_title": "Kolory zła: Czerń",
+            "overview": "Investigating the disappearance of children in a remote Polish town, prosecutor Leopold Bilski must unravel a sinister local legend before it's too late.",
+            "popularity": 88.5168,
+            "poster_path": "/reeKdj7BSznr7wSGzAtIMrPFgKo.jpg",
+            "release_date": "2026-06-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lnEnGidQaqiQvJAQoJhwKBF7prk.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1473332,
+            "title": "No One Will Hear Your Scream",
+            "original_language": "es",
+            "original_title": "Nadie va a escuchar tu grito",
+            "overview": "While an entire country is focused on the 1990 World Cup in Italy, someone takes advantage of Argentina's matches to commit brutal murders.",
+            "popularity": 78.8052,
+            "poster_path": "/32xWlHXSCywvHuy20ElcbAbnpRg.jpg",
+            "release_date": "2025-09-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 4.167,
+            "vote_count": 7
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 1318447,
+            "title": "Apex",
+            "original_language": "en",
+            "original_title": "Apex",
+            "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+            "popularity": 84.9477,
+            "poster_path": "/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+            "release_date": "2026-04-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.797,
+            "vote_count": 1431
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kI7JBjvZkqYsLJRhcqTQU1MMdQA.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 424711,
+            "title": "Poppea's Hot Nights",
+            "original_language": "it",
+            "original_title": "Le calde notti di Poppea",
+            "overview": "Poppea's Hot Nights (Italian: Le calde notti di Poppea) is a 1969 Italian comedy film set in Ancient Rome. It was written and directed by Guido Malatesta and stars Olga Schoberová (credited as Olinka Berova) and Brad Harris in the main roles.",
+            "popularity": 76.9862,
+            "poster_path": "/zNfqugt7ZPFpWeXAQsF5IqDCDft.jpg",
+            "release_date": "1969-01-01",
+            "softcore": false,
+            "video": false,
+            "vote_average": 4.7,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "id": 1297842,
+            "title": "GOAT",
+            "original_language": "en",
+            "original_title": "GOAT",
+            "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+            "popularity": 82.6628,
+            "poster_path": "/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+            "release_date": "2026-02-11",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.144,
+            "vote_count": 769
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+            "genre_ids": [
+                16,
+                12,
+                35,
+                9648,
+                10751
+            ],
+            "id": 1084242,
+            "title": "Zootopia 2",
+            "original_language": "en",
+            "original_title": "Zootopia 2",
+            "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+            "popularity": 82.4197,
+            "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+            "release_date": "2025-11-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 2926
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 350,
+            "title": "The Devil Wears Prada",
+            "original_language": "en",
+            "original_title": "The Devil Wears Prada",
+            "overview": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
+            "popularity": 81.92,
+            "poster_path": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+            "release_date": "2006-06-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 13707
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/62a8bMDftwD9aU0dkXr4eN6Q5q2.jpg",
+            "genre_ids": [
+                99,
+                10770
+            ],
+            "id": 1522126,
+            "title": "1000 Men and Me: The Bonnie Blue Story",
+            "original_language": "en",
+            "original_title": "1000 Men and Me: The Bonnie Blue Story",
+            "overview": "Adult content creator Bonnie Blue announced that she’d slept with 1057 men in 12 hours. Exploring the polarising debate around Bonnie and the pornification of our society, the film follows her over the most eye-opening six months of her life.",
+            "popularity": 82.3104,
+            "poster_path": "/5dcgoyf8nt6Xt4VSR6Nrn6nwhuz.jpg",
+            "release_date": "2025-07-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pjlxrd646cBYznHoPBWTzz6FujX.jpg",
+            "genre_ids": [
+                28,
+                878,
+                18
+            ],
+            "id": 39254,
+            "title": "Real Steel",
+            "original_language": "en",
+            "original_title": "Real Steel",
+            "overview": "Charlie Kenton is a washed-up fighter who retired from the ring when robots took over the sport. After his robot is trashed, he reluctantly teams up with his estranged son to rebuild and train an unlikely contender.",
+            "popularity": 78.4646,
+            "poster_path": "/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg",
+            "release_date": "2011-09-28",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.104,
+            "vote_count": 9204
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4DfxcN4w0FuYZHQ3JAHzpHWia1U.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 1291608,
+            "title": "Dhurandhar",
+            "original_language": "hi",
+            "original_title": "धुरंधर",
+            "overview": "A mysterious traveler slips into the heart of Karachi's underbelly and rises through its ranks with lethal precision, only to tear the notorious ISI-Underworld nexus apart from within.",
+            "popularity": 74.4137,
+            "poster_path": "/snBOuXDdhmTvlzMUvP9Em3Pp1u1.jpg",
+            "release_date": "2025-12-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 300
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gqGQ0zADV5FIcgMWtWX8FcGQjFp.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                878
+            ],
+            "id": 1116201,
+            "title": "Iron Lung",
+            "original_language": "en",
+            "original_title": "Iron Lung",
+            "overview": "In a post-apocalyptic future where an event known as \"The Quiet Rapture\" caused all known stars and habitable planets in the universe to disappear, a convict is sent to search an ocean of blood discovered on a desolate moon, using a small submarine nicknamed the \"Iron Lung\".",
+            "popularity": 66.6253,
+            "poster_path": "/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+            "release_date": "2026-01-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.102,
+            "vote_count": 246
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aqqoDJs8vYp2EZ74aQ1UMY0sjM7.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 235271,
+            "title": "Addicted",
+            "original_language": "en",
+            "original_title": "Addicted",
+            "overview": "A gallerist risks her family and flourishing career when she enters into an affair with a talented painter and slowly loses control of her life.",
+            "popularity": 69.738,
+            "poster_path": "/fAERrD6vvmznDoL99wlgjhSfPcH.jpg",
+            "release_date": "2014-10-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.927,
+            "vote_count": 447
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2fgcRuaseQ9RIiTAUDbLtymnj2z.jpg",
+            "genre_ids": [
+                53,
+                80
+            ],
+            "id": 1274706,
+            "title": "The Marked Woman",
+            "original_language": "es",
+            "original_title": "La desconocida",
+            "overview": "When a woman is found in a shipping container with no memory of who she is, two detectives race to figure out her identity — and who wants her dead.",
+            "popularity": 68.0323,
+            "poster_path": "/dyUZ6IKbzmgtdshHevJahpH51Eq.jpg",
+            "release_date": "2026-06-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 4.9,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wENlYOyR10DZzkICmrGUQQX4Ih5.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                12
+            ],
+            "id": 1084244,
+            "title": "Toy Story 5",
+            "original_language": "en",
+            "original_title": "Toy Story 5",
+            "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+            "popularity": 72.7953,
+            "poster_path": "/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
+            "release_date": "2026-06-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.0,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xGJT18qN8lzELAnHRyfoe1vLTiI.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 186745,
+            "title": "Rape of Love",
+            "original_language": "fr",
+            "original_title": "L'Amour violé",
+            "overview": "Nicole, nurse in Grenoble, is raped one night by four men. Deeply scarred, emotionally and physically, she thinks she will never recover from the trauma. Following a friend's advice, she decides to file a lawsuit.",
+            "popularity": 51.0461,
+            "poster_path": "/qVGL9xgGCzXtRwexUTmpz7z1MVg.jpg",
+            "release_date": "1978-01-10",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 25
+        }
+    ],
+    "total_pages": 57390,
+    "total_results": 1147799
+}
