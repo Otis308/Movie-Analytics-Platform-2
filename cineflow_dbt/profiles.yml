@@ -1,0 +1,8 @@
+cineflow_dbt:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      connection_string: "{{ env_var('DATABASE_URL') }}"
+      schema: analytics
+      threads: 4
