@@ -10,3 +10,4 @@ cineflow_dbt:
       dbname: neondb
       schema: analytics
       threads: 4
+      sslmode: require
