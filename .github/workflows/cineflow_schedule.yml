@@ -31,7 +31,7 @@ jobs:
 
     - name: Run dbt Transformation
       env:
-        DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
       run: |
         cd cineflow_dbt
         dbt run --profiles-dir .

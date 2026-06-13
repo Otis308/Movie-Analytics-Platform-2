@@ -3,6 +3,10 @@ cineflow_dbt:
   outputs:
     dev:
       type: postgres
-      connection_string: "{{ env_var('DATABASE_URL') }}"
+      host: ep-still-bread-aow0faf8.c-2.ap-southeast-1.aws.neon.tech
+      user: neondb_owner
+      password: "{{ env_var('DB_PASSWORD') }}"
+      port: 5432
+      dbname: neondb
       schema: analytics
       threads: 4
