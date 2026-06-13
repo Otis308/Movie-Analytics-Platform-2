@@ -9,19 +9,19 @@ try:
     
     # Query dữ liệu cho Top 10
     df_top_rating = conn.query("""
-        SELECT title, vote_average FROM analytics.movie_performance_mart 
+        SELECT title, vote_average FROM analytics.fact_movies 
         WHERE vote_average IS NOT NULL AND vote_count > 100
         ORDER BY vote_average DESC LIMIT 10;
     """, ttl="10m")
     
     df_top_revenue = conn.query("""
-        SELECT title, revenue FROM analytics.movie_performance_mart 
+        SELECT title, revenue FROM analytics.fact_movies 
         WHERE revenue IS NOT NULL
         ORDER BY revenue DESC LIMIT 10;
     """, ttl="10m")
     
     df_top_popularity = conn.query("""
-        SELECT title, popularity FROM analytics.movie_performance_mart 
+        SELECT title, popularity FROM analytics.fact_movies 
         WHERE popularity IS NOT NULL
         ORDER BY popularity DESC LIMIT 10;
     """, ttl="10m")

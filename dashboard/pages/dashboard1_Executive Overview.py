@@ -13,13 +13,13 @@ try:
             COUNT(DISTINCT title) as total_movies,
             SUM(revenue) as total_revenue,
             AVG(vote_average) as avg_rating
-        FROM analytics.movie_performance_mart;
+        FROM analytics.fact_movies;
     """, ttl="10m")
     
     # Query thể loại phổ biến nhất
     df_popular_genre = conn.query("""
         SELECT genre_name, COUNT(*) as count
-        FROM analytics.movie_performance_mart
+        FROM analytics.fact_movies
         WHERE genre_name IS NOT NULL
         GROUP BY genre_name
         ORDER BY count DESC

@@ -14,7 +14,7 @@ try:
             SUM(revenue) as total_revenue,
             AVG(vote_average) as avg_rating,
             COUNT(*) as movie_count
-        FROM analytics.movie_performance_mart
+        FROM analytics.fact_movies
         WHERE genre_name IS NOT NULL
         GROUP BY genre_name
         ORDER BY total_revenue DESC;
