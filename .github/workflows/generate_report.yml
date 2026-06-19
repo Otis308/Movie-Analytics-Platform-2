@@ -1,0 +1,39 @@
+name: Tự động tạo Báo cáo CI/CD HTML
+
+on:
+  push:
+    branches:
+      - main  
+  schedule:
+    - cron: '0 0 * * *'  
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write 
+
+    steps:
+      - name: Checkout mã nguồn
+        uses: actions/checkout@v3
+
+      - name: Thiết lập môi trường Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Cài đặt thư viện cần thiết
+        run: |
+          pip install requests
+
+      - name: Chạy script lấy dữ liệu GitHub & tạo HTML
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python generate_github_report.py
+
+      - name: Đẩy thư mục HTML lên GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
