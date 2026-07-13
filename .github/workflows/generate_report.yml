@@ -30,7 +30,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python generate_github_report.py
+          python generate_report.py
 
       - name: Đẩy thư mục HTML lên GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
