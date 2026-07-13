@@ -1,1 +1,24 @@
-.streamlit/
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+venv/
+.venv/
+
+# Streamlit
+.streamlit
+
+# Logs
+logs/
+
+# Data
+data/raw/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
