@@ -54,5 +54,5 @@ if __name__ == "__main__":
         
     finally:
         tracker.close()
-        logger.info("🔌 Đã giải phóng kết nối Metadata Tracker.")
+        logger.info("Đã giải phóng kết nối Metadata Tracker.")
         logger.info("\n=======================================================================\n")
